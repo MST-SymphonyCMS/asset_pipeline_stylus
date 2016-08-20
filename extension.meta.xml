@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="asset_pipeline_stylus" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+    <name>Asset Pipeline Stylus Compiler</name>
+    <description>A plugin for the Asset Pipeline extension.</description>
+    <repo type="github">https://github.com/Petertron/asset_pipeline_stylus</repo>
+    <!--<url type="discuss">http://getsymphony.com/discuss/thread/</url>-->
+    <types>
+        <type>Other</type>
+    </types>
+    <authors>
+        <author>
+            <name github="Petertron" symphony="Petertron">Peter Skirenko</name>
+            <email>petertron@mailservice.ms</email>
+            <website>http://www.getsymphony.com/get-involved/member/Petertron/</website>
+        </author>
+    </authors>
+    <releases>
+        <release version="0.1.0" date="2016-08-20" min="2.5.0" max="2.7.1">
+            - Initial release.
+        </release>
+    </releases>
+</extension>
+
